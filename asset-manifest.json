@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/adscene.react/static/css/main.8d6a17ca.css",
-    "main.js": "/adscene.react/static/js/main.0d0dcc24.js",
+    "main.css": "/adscene.react/static/css/main.6b160a20.css",
+    "main.js": "/adscene.react/static/js/main.65efc947.js",
     "index.html": "/adscene.react/index.html",
-    "main.8d6a17ca.css.map": "/adscene.react/static/css/main.8d6a17ca.css.map",
-    "main.0d0dcc24.js.map": "/adscene.react/static/js/main.0d0dcc24.js.map"
+    "main.6b160a20.css.map": "/adscene.react/static/css/main.6b160a20.css.map",
+    "main.65efc947.js.map": "/adscene.react/static/js/main.65efc947.js.map"
   },
   "entrypoints": [
-    "static/css/main.8d6a17ca.css",
-    "static/js/main.0d0dcc24.js"
+    "static/css/main.6b160a20.css",
+    "static/js/main.65efc947.js"
   ]
 }
