@@ -1,12 +1,9 @@
-import Header from "./Header";
-import Footer from "./Footer";
+import App from "../App";
 
 const Layout = () => {
   return (
     <>
-      <Header />
-      <Footer />
-
+      <App />
     </>
   )
 };
