@@ -1,4 +1,5 @@
 
+import ProgressBar from 'react-bootstrap/ProgressBar';
 
 function About() {
   return (
@@ -118,23 +119,17 @@ function About() {
 
               <div className="progress">
                 <span className="skill">Advertising <i className="val">90%</i></span>
-                <div className="progress-bar-wrap">
-                  <div className="progress-bar" role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100"></div>
-                </div>
+                <ProgressBar striped now={90} label={``} />
               </div>
 
               <div className="progress">
                 <span className="skill">HTML / CSS <i className="val">90%</i></span>
-                <div className="progress-bar-wrap">
-                  <div className="progress-bar" role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100"></div>
-                </div>
+                <ProgressBar striped now={90} label={``} />
               </div>
 
               <div className="progress">
                 <span className="skill">Product Management <i className="val">90%</i></span>
-                <div className="progress-bar-wrap">
-                  <div className="progress-bar" role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100"></div>
-                </div>
+                <ProgressBar striped now={90} label={``} />
               </div>
 
             </div>
@@ -142,24 +137,18 @@ function About() {
             <div className="col-lg-6">
 
               <div className="progress">
-                <span className="skill">Web Design <i className="val">80%</i></span>
-                <div className="progress-bar-wrap">
-                  <div className="progress-bar" role="progressbar" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100"></div>
-                </div>
+                <span className="skill">Web Design <i className="val">90%</i></span>
+                <ProgressBar striped now={90} label={``} />
               </div>
 
               <div className="progress">
                 <span className="skill">WordPress / HubSpot CMS <i className="val">90%</i></span>
-                <div className="progress-bar-wrap">
-                  <div className="progress-bar" role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100"></div>
-                </div>
+                <ProgressBar striped now={90} label={``} />
               </div>
 
               <div className="progress">
-                <span className="skill">Photoshop / Photography <i className="val">85%</i></span>
-                <div className="progress-bar-wrap">
-                  <div className="progress-bar" role="progressbar" aria-valuenow="85" aria-valuemin="0" aria-valuemax="100"></div>
-                </div>
+                <span className="skill">Photoshop / Photography <i className="val">90%</i></span>
+                <ProgressBar striped now={90} label={``} />
               </div>
 
             </div>
