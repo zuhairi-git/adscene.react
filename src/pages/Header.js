@@ -17,7 +17,7 @@ const Header = () => {
               <li className="d-none"><Link to="/contact" className="getstarted">Get Started</Link></li>
             </ul>
             <button className="d-none navbar-toggler" type="button" data-toggle="collapse" data-target="/navbar" aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation">
-                <span className="navbar-toggler-icon"></span>
+              <span className="navbar-toggler-icon"></span>
             </button>
             <i className="bi mobile-nav-toggle bi-list"></i>
           </nav>
