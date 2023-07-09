@@ -11,3 +11,4 @@ public/assets/vendor/bootstrap/.DS_Store
 public/assets/vendor/boxicons/.DS_Store
 public/assets/vendor/glightbox/.DS_Store
 src/.DS_Store
+node_modules
